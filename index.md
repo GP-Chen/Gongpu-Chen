@@ -1,8 +1,8 @@
 ## Gongpu Chen
 
-You can use the [editor on GitHub](https://github.com/GP-Chen/GongpuChen.github-com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Master Student
+School of Automation
+Southeast University
 
 ### Markdown
 
