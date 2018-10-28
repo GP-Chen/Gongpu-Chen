@@ -6,7 +6,7 @@
 
 # Biography
 ## I am currently a final year master student in the [School of Automation](http://automation.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/). Previously, I received the B.S. degree in Automation Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China, in 2016. 
-## My current research interest include cyber physical systems and network resource allocation.
+## My current research interests include cyber physical systems and network resource allocation.
 
 It includes conventions for
 
