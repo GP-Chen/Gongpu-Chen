@@ -1,9 +1,9 @@
 ## Education
 
-## Master Student
+# Master Student
 ## School of Automation
-## Southeast University
-## E-mail:gp_chen@seu.edu.cn
+### Southeast University
+#### E-mail:gp_chen@seu.edu.cn
 
 ### Markdown
 
