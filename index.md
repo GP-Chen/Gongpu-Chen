@@ -10,11 +10,11 @@
 
 # Experience
 ```markdown
-# 06/2017-04/2018  Joint Scheduling and Channel Allocation in WirelessHART Networks
+06/2017-04/2018  Joint Scheduling and Channel Allocation in WirelessHART Networks
 - We proposed a tuple-based network model
 
-# 01/2015-08/2015  National College Students 'Freescale Cup' Intelligent Car Competition
--We made two intelligent cars with electromagnatic sensors to complete line-tracing tasks.
+01/2015-08/2015  National College Students 'Freescale Cup' Intelligent Car Competition
+- We made two intelligent cars with electromagnatic sensors to complete line-tracing tasks.
 
 - Bulleted
 - List
@@ -24,7 +24,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](jianmen4.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
