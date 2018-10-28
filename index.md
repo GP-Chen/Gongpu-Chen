@@ -3,7 +3,7 @@
  
  E-mail: gp_chen@seu.edu.cn
 
-# Biography[[CV](https://github.com/GP-Chen/Gongpu-Chen/blob/master/CV_Chen.pdf)]
+# Biography[[CV](CV_Chen.pdf)]
  I am currently a final year master student in the [School of Automation](http://automation.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/), Nanjing, China. Previously, I received the B.S. degree in Automation Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, China, in 2016. 
  
  My current research interests include cyber physical systems and network resource allocation.
