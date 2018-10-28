@@ -1,11 +1,10 @@
-## Education
+### Gongpu Chen
 
-# Master Student
-## School of Automation
-### Southeast University
-#### E-mail:gp_chen@seu.edu.cn
+## Master Student
+## School of Automation, Southeast University, Nanjing, China
+## E-mail:gp_chen@seu.edu.cn
 
-### Markdown
+### Experience
 
 It includes conventions for
 
