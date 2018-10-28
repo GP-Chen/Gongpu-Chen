@@ -1,4 +1,3 @@
-(jianmen4.jpg)
 # Master Student
  School of Automation, Southeast University, Nanjing, China
  
@@ -9,13 +8,13 @@
  
  My current research interests include cyber physical systems and network resource allocation.
 
-
+# Experience
 ```markdown
-Syntax highlighted code block
+# 06/2017-04/2018  Joint Scheduling and Channel Allocation in WirelessHART Networks
+- We proposed a tuple-based network model
 
-# UESTC
-## Southeast University
-### Header 3
+# 01/2015-08/2015  National College Students 'Freescale Cup' Intelligent Car Competition
+-We made two intelligent cars with electromagnatic sensors to complete line-tracing tasks.
 
 - Bulleted
 - List
