@@ -1,5 +1,5 @@
-# 陈功谱(Gongpu Chen)
----------------------
+# Gongpu Chen (陈功谱)
+---------------------- 
  Department of Information Engineering
  
  The Chinese University of Hong Kong 
