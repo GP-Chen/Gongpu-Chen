@@ -27,5 +27,5 @@ doi: 10.1109/ISIE.2019.8781184
 Find my essays and poems on the [Lofter blog](http://ruguirubi.lofter.com/).
 
 ## Office
-#### Room 729, Ho Sin-Hang Engineering Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong.
+Room 729, Ho Sin-Hang Engineering Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong.
 
