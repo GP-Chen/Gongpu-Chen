@@ -18,9 +18,9 @@
 * *Bachelor* : Automation, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, 09/2012-06/2016. 
 
 ## Publication
-[J]. G. Chen, X. Cao, L. Liu, C. Sun and Y. Cheng, "[Joint Scheduling and Channel Allocation for End-to-End Delay Minimization in Industrial WirelessHART Networks](https://ieeexplore.ieee.org/document/8489935)," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 2829-2842, April 2019. Doi: 10.1109/JIOT.2018.2875508
+* G. Chen, X. Cao, L. Liu, C. Sun and Y. Cheng, "[Joint Scheduling and Channel Allocation for End-to-End Delay Minimization in Industrial WirelessHART Networks](https://ieeexplore.ieee.org/document/8489935)," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 2829-2842, April 2019. Doi: 10.1109/JIOT.2018.2875508
 
-[C]. M. Lei, X. Cao, G. Chen and C. Sun, "A Consensus-State-Aware Adaptive Algorithm for Tuning CSMA Parameters in Multi-Agent Networks," 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), Vancouver, BC, Canada, 2019, pp. 1769-1774.
+* M. Lei, X. Cao, G. Chen and C. Sun, "A Consensus-State-Aware Adaptive Algorithm for Tuning CSMA Parameters in Multi-Agent Networks," 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), Vancouver, BC, Canada, 2019, pp. 1769-1774.
 doi: 10.1109/ISIE.2019.8781184
 
 ## Blog
