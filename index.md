@@ -18,7 +18,7 @@
 * *Bachelor* : Automation, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, 09/2012-06/2016. 
 
 ## Publication
-*G. Chen, X. Cao and J. Jin, "[Joint Scheduling and Channel Allocation for Kalman Filtering over Multihop WirelessHART Networks](https://ieeexplore-ieee-org.easyaccess1.lib.cuhk.edu.hk/document/9055118)," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2020.2984491.
+* G. Chen, X. Cao and J. Jin, "[Joint Scheduling and Channel Allocation for Kalman Filtering over Multihop WirelessHART Networks](https://ieeexplore-ieee-org.easyaccess1.lib.cuhk.edu.hk/document/9055118)," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2020.2984491.
 
 * G. Chen, X. Cao, L. Liu, C. Sun and Y. Cheng, "[Joint Scheduling and Channel Allocation for End-to-End Delay Minimization in Industrial WirelessHART Networks](https://ieeexplore.ieee.org/document/8489935)," in IEEE Internet of Things Journal, vol. 6, no. 2, pp. 2829-2842, April 2019. Doi: 10.1109/JIOT.2018.2875508
 
