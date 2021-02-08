@@ -1,12 +1,10 @@
 # Gongpu Chen (陈功谱)
 ---------------------- 
-#### Department of Information Engineering
- 
-#### The Chinese University of Hong Kong 
+#### PhD @ Department of Information Engineering, The Chinese University of Hong Kong 
  
 #### Supervisor： [Prof. Liew Soung-Chang](http://www.ie.cuhk.edu.hk/people/soung.shtml)
  
-#### Research interests: wireless communications and networking, industrial IoT, cyber physical systems.
+#### Research interests: Restless Multi-armed bandits, wireless communications and networking, cyber physical systems.
  
 #### E-mail: gpchen@ie.cuhk.edu.hk
 
