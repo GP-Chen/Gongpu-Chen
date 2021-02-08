@@ -11,7 +11,7 @@ PhD @ Department of Information Engineering, The Chinese University of Hong Kong
 ## Education
 * *Ph.D student* :  [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/), Hong Kong, 08/2019-present;
 
-* *Master* : Control Science and Engineering, [Southeast University](http://www.seu.edu.cn/), Nanjing, 09/2016-06/2019; 
+* *Master* : Control Science and Engineering, [Southeast University](http://www.seu.edu.cn/), Nanjing, 09/2016-06/2019; Under the supervision of **Prof. Xianghui Cao** and **Prof. Changyin Sun**.
 
 * *Bachelor* : Automation, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, 09/2012-06/2016. 
 
