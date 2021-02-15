@@ -14,6 +14,7 @@ PhD @ Department of Information Engineering, The Chinese University of Hong Kong
 * *Master* : Control Science and Engineering, [Southeast University](http://www.seu.edu.cn/), Nanjing, 09/2016-06/2019; Under the supervision of **Prof. Xianghui Cao** and **Prof. Changyin Sun**.
 
 * *Bachelor* : Automation, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), Chengdu, 09/2012-06/2016. 
+
 ## Preprints
 * G. Chen, S.C. Liew and Y. Shao, "[Uncertainty-of-Information Scheduling: A Restless Multi-armed Bandit Framework](https://arxiv.org/abs/2102.06384),"	arXiv:2102.06384 
 
